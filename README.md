@@ -1,4 +1,4 @@
-# 🔐 SecureVault – A Python-Based Secrets Management CLI Tool
+# 🔐 CryptoVault – A Python-Based Secrets Management CLI Tool
 
 > Securely store, retrieve, and manage sensitive credentials using strong encryption and a simple command-line interface. Built with a security-first mindset using Python.
 
